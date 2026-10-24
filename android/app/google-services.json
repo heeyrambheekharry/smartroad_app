@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54320897339",
+    "project_id": "robotics-iot-76612",
+    "storage_bucket": "robotics-iot-76612.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54320897339:android:86ce23f0215af99868eb1e",
+        "android_client_info": {
+          "package_name": "com.example.smartroad_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9T1QxivYSkRaOmrpA7JJibRqkNg0tj2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

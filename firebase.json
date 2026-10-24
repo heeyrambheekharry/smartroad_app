@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "robotics-iot-76612",
+          "appId": "1:54320897339:android:86ce23f0215af99868eb1e",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "robotics-iot-76612",
+          "configurations": {
+            "android": "1:54320897339:android:86ce23f0215af99868eb1e",
+            "ios": "1:54320897339:ios:a5b8b1cf9df6914768eb1e",
+            "macos": "1:54320897339:ios:a5b8b1cf9df6914768eb1e",
+            "web": "1:54320897339:web:e9198bb9725e8c6968eb1e",
+            "windows": "1:54320897339:web:324e576abe47eb1968eb1e"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
